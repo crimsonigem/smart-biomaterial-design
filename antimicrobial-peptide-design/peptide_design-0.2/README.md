@@ -5,7 +5,6 @@ Information
 This module implement the method described in the paper "Machine Learning Assisted Design of Highly Active Peptides for Drug Discovery" published in PLOS Computational Biology in 2015.
 
 In addition, you will most likely need the GS kernel to learn a model.
-The GS source code can be downloaded at http://graal.ift.ulaval.ca/downloads/gs-kernel/
 
 -------
 How to install
